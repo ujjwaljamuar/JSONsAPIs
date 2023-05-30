@@ -1,352 +1,359 @@
 [
     {
-      "id": "6475c42b8c34bb8be56e231a",
-      "index": 1,
-      "name": "Lenovo Yoga C940",
-      "image": "https://m.media-amazon.com/images/I/71fDYa07BZL.jpg",
-      "current_price": 1201.49
+        "id": "6475c42b8c34bb8be56e231a",
+        "index": 1,
+        "name": "Lenovo Yoga C940",
+        "image": "https://m.media-amazon.com/images/I/71fDYa07BZL.jpg",
+        "current_price": 1201.49
     },
     {
-      "id": "6475c42bd7f87ed1d3565549",
-      "index": 2,
-      "name": "Apple MacBook Pro 13-inch (M1, 2020)",
-      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-macbook-air-space-gray-m1-202010?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1634145627000",
-      "current_price": 4003.71
+        "id": "6475c42bd7f87ed1d3565549",
+        "index": 2,
+        "name": "Apple MacBook Pro 13-inch (M1, 2020)",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-macbook-air-space-gray-m1-202010?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1634145627000",
+        "current_price": 4003.71
     },
     {
-      "id": "6475c42b478b8760f25c3842",
-      "index": 3,
-      "name": "Google Pixel 6",
-      "image": "https://m.media-amazon.com/images/I/71QQZr2pNSL._AC_UF894,1000_QL80_.jpg",
-      "current_price": 1200.39
+        "id": "6475c42b478b8760f25c3842",
+        "index": 3,
+        "name": "Google Pixel 6",
+        "image": "https://m.media-amazon.com/images/I/71QQZr2pNSL._AC_UF894,1000_QL80_.jpg",
+        "current_price": 1200.39
     },
     {
-      "id": "6475c42b65b36cc0f2b13ec8",
-      "index": 4,
-      "name": "Dell Inspiron 15",
-      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3520/media-gallery/in3520-cnb-00000ff090-sl.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
-      "current_price": 2925.75
+        "id": "6475c42b65b36cc0f2b13ec8",
+        "index": 4,
+        "name": "Dell Inspiron 15",
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3520/media-gallery/in3520-cnb-00000ff090-sl.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+        "current_price": 2925.75
     },
     {
-      "id": "6475c42beed41615e13e15ae",
-      "index": 5,
-      "name": "Acer Predator Helios 300",
-      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_helios300.jpg",
-      "current_price": 1576.45
+        "id": "6475c42beed41615e13e15ae",
+        "index": 5,
+        "name": "Acer Predator Helios 300",
+        "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_helios300.jpg",
+        "current_price": 1576.45
     },
     {
-      "id": "6475c42bfe9804c967f34b13",
-      "index": 6,
-      "name": "Asus ZenBook Pro Duo",
-      "image": "https://dlcdnwebimgs.asus.com/gain/0c9c1e29-635b-4273-92af-eae757c3389f/",
-      "current_price": 2676.07
+        "id": "6475c42bfe9804c967f34b13",
+        "index": 6,
+        "name": "Asus ZenBook Pro Duo",
+        "image": "https://dlcdnwebimgs.asus.com/gain/0c9c1e29-635b-4273-92af-eae757c3389f/",
+        "current_price": 2676.07
     },
     {
-      "id": "6475c42bdcf34e669cdee0af",
-      "index": 7,
-      "name": "LG Wing",
-      "image": "https://5.imimg.com/data5/SELLER/Default/2021/11/FY/YW/OL/140407438/lg-wing-5g-500x500.jpg",
-      "current_price": 577.37
+        "id": "6475c42bdcf34e669cdee0af",
+        "index": 7,
+        "name": "LG Wing",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/11/FY/YW/OL/140407438/lg-wing-5g-500x500.jpg",
+        "current_price": 577.37
     },
     {
-      "id": "6475c42b9a36bb8c8dfddd23",
-      "index": 8,
-      "name": "HP Envy 13",
-      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/2R252EA-ABE_500x367_02.jpg",
-      "current_price": 3024.91
+        "id": "6475c42b9a36bb8c8dfddd23",
+        "index": 8,
+        "name": "HP Envy 13",
+        "image": "https://www.notebookcheck.net/uploads/tx_nbc2/2R252EA-ABE_500x367_02.jpg",
+        "current_price": 3024.91
     },
     {
-      "id": "6475c42bb2773db2259fdf8f",
-      "index": 9,
-      "name": "Samsung Galaxy S21 Ultra",
-      "image": "https://www.refurbished.store/cache/images/samsung-galaxy-s21-ultra-zilver_600x600_BGresize_16777215-tj.png",
-      "current_price": 1408.87
+        "id": "6475c42bb2773db2259fdf8f",
+        "index": 9,
+        "name": "Samsung Galaxy S21 Ultra",
+        "image": "https://www.refurbished.store/cache/images/samsung-galaxy-s21-ultra-zilver_600x600_BGresize_16777215-tj.png",
+        "current_price": 1408.87
     },
     {
-      "id": "6475c42b139f21413219b8e0",
-      "index": 10,
-      "name": "Lenovo Legion 5",
-      "image": "https://www.lenovo.com/medias/lenovo-laptop-legion-5-15-intel-subseries-hero.png?context=bWFzdGVyfHJvb3R8MzA2MjM2fGltYWdlL3BuZ3xoOGUvaDI2LzE0MzMyNjk1MzE0NDYyLnBuZ3w0NTQ5M2UyMWNkNjIyYmEzNmI0MWM0YTU4MjM0YjcxZmZhNTAxZThiZWE2OTUwNDJjOTQ2MDI3NWY3YzA3NzNm",
-      "current_price": 3187.88
+        "id": "6475c42b139f21413219b8e0",
+        "index": 10,
+        "name": "Lenovo Legion 5",
+        "image": "https://www.lenovo.com/medias/lenovo-laptop-legion-5-15-intel-subseries-hero.png?context=bWFzdGVyfHJvb3R8MzA2MjM2fGltYWdlL3BuZ3xoOGUvaDI2LzE0MzMyNjk1MzE0NDYyLnBuZ3w0NTQ5M2UyMWNkNjIyYmEzNmI0MWM0YTU4MjM0YjcxZmZhNTAxZThiZWE2OTUwNDJjOTQ2MDI3NWY3YzA3NzNm",
+        "current_price": 3187.88
     },
     {
-      "id": "6475c42bbff2d9accbee01f6",
-      "index": 11,
-      "name": "Microsoft Surface Laptop Go",
-      "image": "",
-      "current_price": 1465.09
+        "id": "6475c42bbff2d9accbee01f6",
+        "index": 11,
+        "name": "Microsoft Surface Laptop Go",
+        "image": "https://m.media-amazon.com/images/I/61ztzWzTpSL.jpg",
+        "current_price": 1465.09
     },
     {
-      "id": "6475c42b0f63002f43040657",
-      "index": 12,
-      "name": "OnePlus 9 Pro",
-      "image": "",
-      "current_price": 666.45
+        "id": "6475c42b0f63002f43040657",
+        "index": 12,
+        "name": "OnePlus 9 Pro",
+        "image": "https://m.media-amazon.com/images/I/614cCf6bzyL.jpg",
+        "current_price": 666.45
     },
     {
-      "id": "6475c42b3fe0e9560517111b",
-      "index": 13,
-      "name": "Acer Swift 3",
-      "image": "",
-      "current_price": 1682.09
+        "id": "6475c42b3fe0e9560517111b",
+        "index": 13,
+        "name": "Acer Swift 3",
+        "image": "https://m.media-amazon.com/images/I/31Xidkq9--L.jpg",
+        "current_price": 1682.09
     },
     {
-      "id": "6475c42b6a3981686beff0c9",
-      "index": 14,
-      "name": "HP Spectre x360",
-      "image": "",
-      "current_price": 902.48
+        "id": "6475c42b6a3981686beff0c9",
+        "index": 14,
+        "name": "HP Spectre x360",
+        "image": "https://www.cnet.com/a/img/resize/eae3840288fe99145fa33596146ecb448eff6a1b/hub/2021/04/12/ec06344f-4113-4966-9b4f-8fdcd129869f/014-hp-spectre-x360-14.jpg?auto=webp&fit=crop&height=900&width=1200",
+        "current_price": 902.48
     },
     {
-      "id": "6475c42bfdda1b899844f7b1",
-      "index": 15,
-      "name": "Dell G5 15 SE",
-      "image": "",
-      "current_price": 2587.87
+        "id": "6475c42bfdda1b899844f7b1",
+        "index": 15,
+        "name": "Dell G5 15 SE",
+        "image": "https://i.gadgets360cdn.com/products/large/Dell-G5-15-SE-DB-800x800-1595499904.jpg",
+        "current_price": 2587.87
     },
     {
-      "id": "6475c42b7dc9ca3006636c21",
-      "index": 16,
-      "name": "Asus ROG Strix Scar 17",
-      "image": "",
-      "current_price": 2194.66
+        "id": "6475c42b7dc9ca3006636c21",
+        "index": 16,
+        "name": "Asus ROG Strix Scar 17",
+        "image": "https://m.media-amazon.com/images/I/71AsvFQycVL._AC_UF1000,1000_QL80_.jpg",
+        "current_price": 2194.66
     },
     {
-      "id": "6475c42bb2b962d41578f81c",
-      "index": 17,
-      "name": "Xiaomi Mi 12",
-      "image": "",
-      "current_price": 474.15
+        "id": "6475c42bb2b962d41578f81c",
+        "index": 17,
+        "name": "Xiaomi Mi 12",
+        "image": "https://cdn-files.kimovil.com/default/0007/52/thumb_651781_default_big.jpg",
+        "current_price": 474.15
     },
     {
-      "id": "6475c42b3240f8c378e78b8c",
-      "index": 18,
-      "name": "Lenovo ThinkPad X1 Yoga",
-      "image": "",
-      "current_price": 2080.38
+        "id": "6475c42b3240f8c378e78b8c",
+        "index": 18,
+        "name": "Lenovo ThinkPad X1 Yoga",
+        "image": "",
+        "current_price": 2080.38
     },
     {
-      "id": "6475c42bc358806ca38d8f2f",
-      "index": 19,
-      "name": "Microsoft Surface Book 3",
-      "image": "",
-      "current_price": 1636.62
+        "id": "6475c42bc358806ca38d8f2f",
+        "index": 19,
+        "name": "Microsoft Surface Book 3",
+        "image": "https://m.media-amazon.com/images/I/51joh+cAx9S.jpg",
+        "current_price": 1636.62
     },
     {
-      "id": "6475c42bcb0e3122de2f8b62",
-      "index": 20,
-      "name": "Huawei P50 Pro",
-      "image": "",
-      "current_price": 643.48
+        "id": "6475c42bcb0e3122de2f8b62",
+        "index": 20,
+        "name": "Huawei P50 Pro",
+        "image": "data:image/jpeg;base64,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",
+        "current_price": 643.48
     },
     {
-      "id": "6475c42ba8d44a8fc8d4c199",
-      "index": 21,
-      "name": "MacBook Pro 16-inch (Intel, 2019)",
-      "image": "",
-      "current_price": 4511.09
+        "id": "6475c42ba8d44a8fc8d4c199",
+        "index": 21,
+        "name": "MacBook Pro 16-inch (Intel, 2019)",
+        "image": "https://m.media-amazon.com/images/I/81bF-d1dNoL._AC_UF1000,1000_QL80_.jpg",
+        "current_price": 4511.09
     },
     {
-      "id": "6475c42bbea414ec927a8a64",
-      "index": 22,
-      "name": "Razer Blade 15",
-      "image": "",
-      "current_price": 2033.46
+        "id": "6475c42bbea414ec927a8a64",
+        "index": 22,
+        "name": "Razer Blade 15",
+        "image": "https://m.media-amazon.com/images/I/81mIXd99GrL.jpg",
+        "current_price": 2033.46
     },
     {
-      "id": "6475c42b9ecefb93157fd2d6",
-      "index": 23,
-      "name": "HP Pavilion 15",
-      "image": "",
-      "current_price": 1662.75
+        "id": "6475c42b9ecefb93157fd2d6",
+        "index": 23,
+        "name": "HP Pavilion 15",
+        "image": "https://media.croma.com/image/upload/v1663932131/Croma%20Assets/Computers%20Peripherals/Laptop/Images/250782_jyhozg.png",
+        "current_price": 662.75
     },
     {
-      "id": "6475c42be8d5fd210d26dc76",
-      "index": 24,
-      "name": "Asus ROG Zephyrus G14",
-      "image": "",
-      "current_price": 3607.61
+        "id": "6475c42be8d5fd210d26dc76",
+        "index": 24,
+        "name": "Asus ROG Zephyrus G14",
+        "image": "https://dlcdnwebimgs.asus.com/gain/10BD5312-B087-4841-B7A1-523F80C9D2B2",
+        "current_price": 3607.61
     },
     {
-      "id": "6475c42b74bfcdc7536dfa77",
-      "index": 25,
-      "name": "MacBook Pro (M1, 13-inch, 2020)",
-      "image": "",
-      "current_price": 1342.48
+        "id": "6475c42b74bfcdc7536dfa77",
+        "index": 25,
+        "name": "MacBook Pro (M1, 13-inch, 2020)",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/khdqnbk0/computer/e/6/n/apple-original-imafxfyq83sftaay.jpeg?q=20",
+        "current_price": 1342.48
     },
     {
-      "id": "6475c42bd4f8e8543fc62e6e",
-      "index": 26,
-      "name": "Sony Xperia 1 III",
-      "image": "",
-      "current_price": 613.54
+        "id": "6475c42bd4f8e8543fc62e6e",
+        "index": 26,
+        "name": "Sony Xperia 1 III",
+        "image": "https://priceinall.com/wp-content/uploads/2021/04/sony-xperia-1-iii-600x600.jpg",
+        "current_price": 613.54
     },
     {
-      "id": "6475c42b3e94b5eebe954bd2",
-      "index": 27,
-      "name": "Lenovo ThinkPad X1 Carbon",
-      "image": "",
-      "current_price": 2116.73
+        "id": "6475c42b3e94b5eebe954bd2",
+        "index": 27,
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "image": "https://www.lenovo.com/medias/lenovo-laptops-thinkpad-x1-carbon-gen-10-hero.png?context=bWFzdGVyfHJvb3R8NDk2OTY3fGltYWdlL3BuZ3xoZWQvaDdiLzEzMTM1OTk1NTY4MTU4LnBuZ3xmNGQzMmI4ZTA3M2UyN2YxYjdkMTk2YTk3NmVlNDYyOWFmZGIzYjk4ZjMyNzRmZTQ5ZjE4YTI0YmJmYTI2YTFj",
+        "current_price": 2116.73
     },
     {
-      "id": "6475c42b8353d7129e1911fd",
-      "index": 28,
-      "name": "Asus VivoBook S15",
-      "image": "",
-      "current_price": 800.62
+        "id": "6475c42b8353d7129e1911fd",
+        "index": 28,
+        "name": "Asus VivoBook S15",
+        "image": "https://m.media-amazon.com/images/I/71MeHPBsVaL.jpg",
+        "current_price": 800.62
     },
     {
-      "id": "6475c42b50fd6eec320e69d4",
-      "index": 29,
-      "name": "Dell XPS 15",
-      "image": "",
-      "current_price": 2479.45
+        "id": "6475c42b50fd6eec320e69d4",
+        "index": 29,
+        "name": "Dell XPS 15",
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3778&hei=2323&qlt=100,1&resMode=sharp2&size=3778,2323&chrss=full&imwidth=5000",
+        "current_price": 2479.45
     },
     {
-      "id": "6475c42b473545ef2838c02a",
-      "index": 30,
-      "name": "MSI Prestige 14",
-      "image": "",
-      "current_price": 2635.74
+        "id": "6475c42b473545ef2838c02a",
+        "index": 30,
+        "name": "MSI Prestige 14",
+        "image": "https://m.media-amazon.com/images/I/81vpqHE2ydL._AC_UF1000,1000_QL80_.jpg",
+        "current_price": 2635.74
     },
     {
-      "id": "6475c42bb9c88dc00addaf39",
-      "index": 31,
-      "name": "Acer Nitro 5",
-      "image": "",
-      "current_price": 1599.53
+        "id": "6475c42bb9c88dc00addaf39",
+        "index": 31,
+        "name": "Acer Nitro 5",
+        "image": "https://m.media-amazon.com/images/I/81bc8mA3nKL.jpg",
+        "current_price": 1599.53
     },
     {
-      "id": "6475c42bf56f585691929d78",
-      "index": 32,
-      "name": "MacBook Air (Intel, 2020)",
-      "image": "",
-      "current_price": 978.02
+        "id": "6475c42bf56f585691929d78",
+        "index": 32,
+        "name": "MacBook Air (Intel, 2020)",
+        "image": "https://cdn1.smartprix.com/rx-ip4KYw4KB-w1200-h1200/p4KYw4KB.jpg",
+        "current_price": 978.02
     },
     {
-      "id": "6475c42ba5d8a9a5fca0fb85",
-      "index": 33,
-      "name": "Motorola Edge+",
-      "image": "",
-      "current_price": 499.15
+        "id": "6475c42ba5d8a9a5fca0fb85",
+        "index": 33,
+        "name": "Motorola Edge+",
+        "image": "https://motorolain.vtexassets.com/arquivos/ids/157225-800-auto?width=800&height=auto&aspect=true",
+        "current_price": 499.15
     },
     {
-      "id": "6475c42bb2aea53a20f43130",
-      "index": 34,
-      "name": "Asus ROG Zephyrus G14",
-      "image": "",
-      "current_price": 2887.35
+        "id": "6475c42bb2aea53a20f43130",
+        "index": 34,
+        "name": "Asus ROG Zephyrus G14",
+        "image": "https://dlcdnwebimgs.asus.com/gain/10BD5312-B087-4841-B7A1-523F80C9D2B2",
+        "current_price": 2887.35
     },
     {
-      "id": "6475c42bb6ada7abddb7a40a",
-      "index": 35,
-      "name": "Lenovo IdeaPad 5",
-      "image": "",
-      "current_price": 948.98
+        "id": "6475c42bb6ada7abddb7a40a",
+        "index": 35,
+        "name": "Lenovo IdeaPad 5",
+        "image": "https://laptopmedia.com/wp-content/uploads/2022/09/1-13-e1662623368582.jpg",
+        "current_price": 948.98
     },
     {
-      "id": "6475c42ba8fc7573bdbddbc8",
-      "index": 36,
-      "name": "HP Omen 15",
-      "image": "",
-      "current_price": 1123.25
+        "id": "6475c42ba8fc7573bdbddbc8",
+        "index": 36,
+        "name": "HP Omen 15",
+        "image": "https://www.omen.com/content/dam/sites/omen/worldwide/laptops/omen-15-laptop/2-0/starmade-15-50-w-numpad-4-zone-oled-shadow-black-nt-h-dcam-non-odd-non-fpr-freedos-core-set-front-copy.png",
+        "current_price": 1123.25
     },
     {
-      "id": "6475c42bb5895438dda0e799",
-      "index": 37,
-      "name": "Dell XPS 13",
-      "image": "",
-      "current_price": 2562.82
+        "id": "6475c42bb5895438dda0e799",
+        "index": 37,
+        "name": "Dell XPS 13",
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9320/media-gallery/xs9320nt-xnb-shot-5-1-sl.psd?fmt=pjpg&pscan=auto&scl=1&wid=3782&hei=2988&qlt=100,1&resMode=sharp2&size=3782,2988&chrss=full&imwidth=5000",
+        "current_price": 2562.82
     },
     {
-      "id": "6475c42b0d531a19e6664ec8",
-      "index": 38,
-      "name": "Acer Aspire 5",
-      "image": "",
-      "current_price": 636.46
+        "id": "6475c42b0d531a19e6664ec8",
+        "index": 38,
+        "name": "Acer Aspire 5",
+        "image": "https://m.media-amazon.com/images/I/71D3y82w27L.jpg",
+        "current_price": 636.46
     },
     {
-      "id": "6475c42badd23d259e4dbba0",
-      "index": 39,
-      "name": "Sony PlayStation 5",
-      "image": "",
-      "current_price": 2823.24
+        "id": "6475c42badd23d259e4dbba0",
+        "index": 39,
+        "name": "Sony PlayStation 5",
+        "image": "https://www.jiomart.com/images/product/original/491936180/sony-playstation-5-console-digital-o491936180-p590441673-1-202108122024.jpeg",
+        "current_price": 2823.24
     },
     {
-      "id": "6475c42b55261ea400ce6a25",
-      "index": 40,
-      "name": "Bose QuietComfort 35 II Wireless Headphones",
-      "image": "",
-      "current_price": 333.63
+        "id": "6475c42b55261ea400ce6a25",
+        "index": 40,
+        "name": "Bose QuietComfort 35 II Wireless Headphones",
+        "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_black_EC_hero.psd/_jcr_content/renditions/cq5dam.web.320.320.png",
+        "current_price": 333.63
     },
     {
-      "id": "6475c42b4f133693371aea1b",
-      "index": 41,
-      "name": "GoPro Hero 9 Black",
-      "image": "",
-      "current_price": 276.83
+        "id": "6475c42b4f133693371aea1b",
+        "index": 41,
+        "name": "GoPro Hero 9 Black",
+        "image": "https://m.media-amazon.com/images/I/61R73nG3FqL._AC_UF1000,1000_QL80_.jpg",
+        "current_price": 276.83
     },
     {
-      "id": "6475c42bdcde7fd85cfd3b61",
-      "index": 42,
-      "name": "Amazon Echo Show 10 (3rd Gen)",
-      "image": "",
-      "current_price": 146.18
+        "id": "6475c42bdcde7fd85cfd3b61",
+        "index": 42,
+        "name": "Amazon Echo Show 10 (3rd Gen)",
+        "image": "https://images-cdn.ubuy.co.in/634fbc35ed63504a053d7aba-echo-show-10-3rd-gen-hd-smart.jpg",
+        "current_price": 146.18
     },
     {
-      "id": "6475c42beb4a2baa360a5ceb",
-      "index": 43,
-      "name": "Nikon Z7 Mirrorless Camera",
-      "image": "",
-      "current_price": 332.83
+        "id": "6475c42beb4a2baa360a5ceb",
+        "index": 43,
+        "name": "Nikon Z7 Mirrorless Camera",
+        "image": "https://m.media-amazon.com/images/I/41ZYIpJWZHL._AC_UF1000,1000_QL80_.jpg",
+        "current_price": 332.83
     },
     {
-      "id": "6475c42b126d99895837573b",
-      "index": 44,
-      "name": "Samsung QLED Q90R 4K Smart TV",
-      "image": "",
-      "current_price": 1037.32
+        "id": "6475c42b126d99895837573b",
+        "index": 44,
+        "name": "Samsung QLED Q90R 4K Smart TV",
+        "image": "https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/qled-tvs/pdp/qn65q90rafxza/gallery/QN75Q90RAFXZA_001_Front1_Silver_NS_01.jpg?$product-details-jpg$",
+        "current_price": 1037.32
     },
     {
-      "id": "6475c42b250e4ad9825ee0c9",
-      "index": 45,
-      "name": "Apple Watch Series 7",
-      "image": "",
-      "current_price": 999.99
+        "id": "6475c42b250e4ad9825ee0c9",
+        "index": 45,
+        "name": "Apple Watch Series 7",
+        "image": "https://m.media-amazon.com/images/I/71-i7pbrhnL._AC_UF1000,1000_QL80_.jpg",
+        "current_price": 999.99
     },
     {
-      "id": "6475c42b90fcf793b7f9c666",
-      "index": 46,
-      "name": "Microsoft Xbox Series X",
-      "image": "",
-      "current_price": 2085.03
+        "id": "6475c42b90fcf793b7f9c666",
+        "index": 46,
+        "name": "Microsoft Xbox Series X",
+        "image": "https://m.media-amazon.com/images/I/71as9W1JDSL._AC_UF1000,1000_QL80_.jpg",
+        "current_price": 2085.03
     },
     {
-      "id": "6475c42b4bcba93428e9606b",
-      "index": 47,
-      "name": "DJI Mavic Air 2 Drone",
-      "image": "",
-      "current_price": 3089.97
+        "id": "6475c42b4bcba93428e9606b",
+        "index": 47,
+        "name": "DJI Mavic Air 2 Drone",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/YY/YF/BA/116849927/dji-mavic-air-2-fly-more-combo.png",
+        "current_price": 3089.97
     },
     {
-      "id": "6475c42b0a3d31198ec77443",
-      "index": 48,
-      "name": "Sonos Beam Soundbar",
-      "image": "",
-      "current_price": 1612.54
+        "id": "6475c42b0a3d31198ec77443",
+        "index": 48,
+        "name": "Sonos Beam Soundbar",
+        "image": "",
+        "current_price": 1612.54
     },
     {
-      "id": "6475c42b463222caf2ab55bc",
-      "index": 49,
-      "name": "Canon EOS R6 Mirrorless Camera",
-      "image": "",
-      "current_price": 2627.18
+        "id": "6475c42b463222caf2ab55bc",
+        "index": 49,
+        "name": "Canon EOS R6 Mirrorless Camera",
+        "image": "https://m.media-amazon.com/images/I/21l5MG0jjmL.jpg",
+        "current_price": 2627.18
     },
     {
-      "id": "6475c42b8d96e71f80f29612",
-      "index": 50,
-      "name": "Iphone 14 Pro Max",
-      "image": "",
-      "current_price": 1500.99
+        "id": "6475c42b8d96e71f80f29612",
+        "index": 50,
+        "name": "Iphone 14 Pro Max",
+        "image": "https://m.media-amazon.com/images/I/71T5NVOgbpL._SL1500_.jpg",
+        "current_price": 1500.99
+    },
+    {
+        "id": "6475c42b8d96e71f80f29472",
+        "index": 51,
+        "name": "Samsung Galaxy S21 FE",
+        "image": "https://m.media-amazon.com/images/I/710s4SX98yL.jpg",
+        "current_price": 0.99
     }
-  ]
+]
